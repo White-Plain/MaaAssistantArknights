@@ -207,7 +207,7 @@
         {
             "name": "相遇",
             "option_num": 3,
-            "choose": 1,
+            "choose": 2,
             "choices": [
                 {
                     "name": "它邀请对方共享猎物",
